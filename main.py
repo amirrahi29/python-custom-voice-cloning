@@ -2,7 +2,7 @@ from elevenlabs.client import ElevenLabs
 from elevenlabs import play, save
 
 # Replace 'YOUR_API_KEY' with your actual ElevenLabs API key
-API_KEY = "sk_873722231fd4ee93bc25dd2dc3744ea318db8c3874bafac0"
+API_KEY = "API_KEY"
 
 # Instantiate the client with your API key
 client = ElevenLabs(api_key=API_KEY)
