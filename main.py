@@ -12,7 +12,7 @@ model = "eleven_monolingual_v1"  # Change to "eleven_multilingual_v2" if needed
 
 # Generate audio
 audio = client.generate(
-    text="Hey, how are you ?",
+    text="hi amir rahi, welcome how are you?",
     voice="AmirRahiUniqueVoice",
     model=model
 )
